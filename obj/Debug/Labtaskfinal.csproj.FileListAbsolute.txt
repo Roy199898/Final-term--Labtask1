@@ -1,0 +1,7 @@
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\bin\Debug\Labtaskfinal.exe.config
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\bin\Debug\Labtaskfinal.exe
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\bin\Debug\Labtaskfinal.pdb
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\obj\Debug\Labtaskfinal.csprojAssemblyReference.cache
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\obj\Debug\Labtaskfinal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\obj\Debug\Labtaskfinal.exe
+C:\Users\Administrator\Music\Labtaskfinal\Labtaskfinal\obj\Debug\Labtaskfinal.pdb
